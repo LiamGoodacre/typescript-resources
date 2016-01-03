@@ -1,0 +1,16 @@
+* TypeScript
+** Learning - TypeScript Deep Dive
+*** https://basarat.gitbooks.io/typescript/content/docs/getting-started.html
+** TypeScript and NPM
+*** Example TypeScript npm module
+**** https://github.com/basarat/ts-npm-module
+*** Example TypeScript npm module consumer
+**** https://github.com/basarat/ts-npm-module-consume
+** Documentation generation
+*** https://www.npmjs.com/package/typescript-docs
+** Definition manager for DefinitelyTyped
+*** https://www.npmjs.com/package/tsd
+** Tooling
+*** https://github.com/TypeStrong
+** Schema for tsconfig
+*** http://json.schemastore.org/tsconfig
